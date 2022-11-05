@@ -1,2 +1,2 @@
-# site_html_js_lua
+# CuriositeDev
 Projet de Curiopos et DakioYT
